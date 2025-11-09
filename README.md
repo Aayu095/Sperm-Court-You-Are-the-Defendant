@@ -3,12 +3,7 @@
 # ⚖️ **Sperm Court™: Guilty Until Proven Fertile**  
 ### *Your sperm. In the dock. Facing justice. No mercy.*
 
-![Sperm Court Banner](https://i.imgur.com/placeholder-banner.png)  
 *One click. One objection. One lifetime of shame.*
-
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-Enter%20the%20Courtroom-red?style=for-the-badge&logo=vercel)](https://sperm-court.vercel.app)  
-[![GoOnHacks 2025](https://img.shields.io/badge/GoOnHacks-1st%20Place%20Finalist-gold?style=for-the-badge)](https://goonhacks.devpost.com)  
-[![Viral Shame](https://img.shields.io/badge/Status-Your%20Sperm%20Are%20Crying-ff69b4?style=for-the-badge)](https://sperm-court.vercel.app)
 
 </div>
 
@@ -26,7 +21,6 @@ Your weapon?
 
 ## What Actually Happens (Weird. Real. Unforgiving.)
 
-```mermaid
 graph TD
     A[Race Complete] --> B[Courtroom Opens]
     B --> C[Sperm #3 in Wig Appears]
@@ -36,7 +30,6 @@ graph TD
     F --> G["Verdict: 4/5 GUILTY"]
     G --> H["Sentence: Life in the Left Testicle"]
     H --> I[Future Child: "Dad, I could've been a lawyer..."]
-```
 
 > **No download. No escape. Just trauma.**
 
