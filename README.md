@@ -1,6 +1,6 @@
 <div align="center">
 
-# ⚖️ **Sperm Court™: Guilty Until Proven Fertile**  
+# ⚖️ **Sperm Court: Guilty Until Proven Fertile**  
 ### *Your sperm. In the dock. Facing justice. No mercy.*
 
 *One click. One objection. One lifetime of shame.*
@@ -21,6 +21,7 @@ Your weapon?
 
 ## What Actually Happens (Weird. Real. Unforgiving.)
 
+```mermaid
 graph TD
     A[Race Complete] --> B[Courtroom Opens]
     B --> C[Sperm #3 in Wig Appears]
@@ -30,6 +31,7 @@ graph TD
     F --> G["Verdict: 4/5 GUILTY"]
     G --> H["Sentence: Life in the Left Testicle"]
     H --> I[Future Child: "Dad, I could've been a lawyer..."]
+```
 
 > **No download. No escape. Just trauma.**
 
