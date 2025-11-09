@@ -25,12 +25,12 @@ Your weapon?
 graph TD
     A[Race Complete] --> B[Courtroom Opens]
     B --> C[Sperm #3 in Wig Appears]
-    C --> D["Charge: Loitering in Seminal Fluid"]
+    C --> D[Charge: Loitering in Seminal Fluid]
     D --> E[You Click OBJECTION!]
     E --> F[Sperm SHAKES. Wig FLIES. Confetti EXPLODES.]
-    F --> G["Verdict: 4/5 GUILTY"]
-    G --> H["Sentence: Life in the Left Testicle"]
-    H --> I[Future Child: "Dad, I could've been a lawyer..."]
+    F --> G[Verdict: 4/5 GUILTY]
+    G --> H[Sentence: Life in the Left Testicle]
+    H --> I[Future Child: Dad, I could have been a lawyer]
 ```
 
 > **No download. No escape. Just trauma.**
